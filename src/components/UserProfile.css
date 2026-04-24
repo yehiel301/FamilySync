@@ -1,0 +1,7 @@
+/* src/components/UserProfile.css */
+/* Removed old styles to avoid conflicts with Tailwind */
+
+.user-profile-container {
+    max-width: 500px;
+    margin: 2rem auto;
+}

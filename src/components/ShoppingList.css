@@ -1,0 +1,22 @@
+/* src/components/ShoppingList.css */
+
+.custom-scrollbar::-webkit-scrollbar {
+    width: 6px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+    background-color: #ffdbd0; /* outline-variant */
+    border-radius: 10px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background-color: #ffae80; /* primary-fixed */
+}
+
+.dir-ltr {
+    direction: ltr;
+}
